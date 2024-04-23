@@ -6,7 +6,7 @@ Welcome to the GitHub repository for the [CDV04] project, where students are tas
 
 Your objective is to write a professional and personalised cover letter that enhances your application for the Junior React Developer position at Vulindlela. This document should serve as a direct communication channel between you and the hiring team, allowing you to make a memorable first impression.
 
-### Job Advert: Vulindlela
+## Job Advert: Vulindlela
 - **Position:** Junior React Developer
 - **Company:** Vulindlela
 - **Location:** Johannesburg, South Africa
